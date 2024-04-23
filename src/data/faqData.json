@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "¿Realizamos envíos internacionales?",
+        "isOpen": true,
+        "content": "Por el momento nos encontramos en fase de desarrollo de nuestros productos, por lo que no hemos comenzado nuestra distribución."
+    },
+    {
+        "id": 2,
+        "title": "¿De dondé somos?",
+        "isOpen": false,
+        "content": "Somos una empresa emergente 100% mexicana."
+    },
+    {
+        "id": 3,
+        "title": "¿Cómo puedo comprar?",
+        "isOpen": false,
+        "content": "Por el momento nos encontramos en fase de desarrollo de nuestros productos, por lo que no hemos comenzado nuestra distribución."
+    },
+    {
+        "id": 4,
+        "title": "¿Están en operación?",
+        "isOpen": false,
+        "content": "Por el momento nos encontramos en fase de desarrollo de nuestros productos, por lo que no hemos comenzado nuestra distribución."
+    }
+]

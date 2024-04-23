@@ -1,0 +1,13 @@
+
+<svg viewBox="0 0 521 309" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <pattern id="pattern-0-0" patternTransform="matrix(0.717132, 0, 0, 1, 179.013504, 680.583008)" xlink:href="#pattern-0"/>
+    <pattern x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse" viewBox="0 0 100 100" id="pattern-0">
+      <rect x="0" y="0" width="50" height="100" style="fill: black;"/>
+      <rect x="50.032" y="0.032" width="50" height="100" style="fill: rgb(156, 154, 154);"/>
+    </pattern>
+    <style bx:fonts="Arbutus">@import url(https://fonts.googleapis.com/css2?family=Arbutus%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+  </defs>
+  <rect x="115.442" y="513.613" width="145.071" height="358.939" style="stroke: rgb(0, 0, 0); paint-order: fill; stroke-miterlimit: 6.94; fill: url('#pattern-0-0'); transform-origin: 187.978px 693.083px;" transform="matrix(-0.000001, 1, -1, -0.000001, 61.182595837879, -513.627692111578)"/>
+  <text style="fill: rgb(207, 23, 23); font-family: Arbutus; font-size: 67px; white-space: pre;" x="88.074" y="198.471" transform="matrix(0.9999999999999999, 0, 0, 0.9999999999999999, 0, 0)">YERENA</text>
+</svg>

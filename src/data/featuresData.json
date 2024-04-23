@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Cerveza en tiempos antiguos",
+        "content": "El proceso de elaboración de cerveza en el pasado consistía en germinar, tostar y triturar cereales con almidón, como la cebada, y añadir miel o tubérculos para iniciar la fermentación con levaduras silvestres.",
+        "align": "right",
+        "image": "/images/features1.png"
+    },
+    {
+        "id": 1,
+        "title": "Cervezas artesanales en la actualidad",
+        "content": "Hoy en día, el proceso de creación de cerveza artesanal consiste en mezclar agua, malta, lúpulo y levadura en un equipo especializado que controla la temperatura, el tiempo y la presión, generando así una diversidad de estilos, sabores, aromas y colores dependientes de los ingredientes y las técnicas utilizados por cada productor.",
+        "align": "left",
+        "image": "/images/features2.png"
+    }
+]

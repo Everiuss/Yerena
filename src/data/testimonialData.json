@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Vienna.",
+        "image": "/images/product-1.png",
+        "content": "Cerveza lager de color ámbar, sabor a malta caramelizada y amargor equilibrado, estilo de la cerveza Victoria."
+    },
+    {
+        "id": 2,
+        "title": "Pale Ale.",
+        "image": "/images/product-2.png",
+        "content": "Cerveza proviniente de un estilo originario del Reino Unido,caracterizado por su color claro y brillante, obtenido gracias al uso de maltas pálidas en su elaboración, su sabor es una combinación magistral de notas maltosas y un toque refrescante de lúpulo"
+    },
+    {
+        "id": 3,
+        "title": "Pilsner.",
+        "image": "/images/product-3.png",
+        "content": "Cerveza lager de color dorado, sabor a lúpulo floral y amargor moderado, es el estilo de muchas cervezas comerciales como corona y modelo."
+    },
+    {
+        "id": 4,
+        "title": "Porter.",
+        "image": "/images/product-4.png",
+        "content": "Es una cerveza oscura, de sabor a malta tostada, café y chocolate, con un cuerpo medio y un amargor moderado."
+    }
+]
