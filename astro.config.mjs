@@ -9,6 +9,11 @@ import prefetch from "@astrojs/prefetch";
 // https://astro.build/config
 export default defineConfig({
     site: "https://everiuss.github.io/Yerena/",
+    output: 'static',
+    outDir: './docs',
+    build: {
+        assets: 'astro'
+    },
     //base: '/Yerena/', // Establece la ruta base
     vite: {
         optimizeDeps: {
